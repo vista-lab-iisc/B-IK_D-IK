@@ -1,4 +1,4 @@
-function [ndata] = IKspace_dec (Sdata,data, psi, t)
+function [ndata] = D_IK(Sdata,data, psi, t)
 % mapping data to Isolation Kernel space 
 % Sdata is used for partition
 
